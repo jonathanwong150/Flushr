@@ -71,8 +71,8 @@
 			}
  			  
 	</script>
-
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSsz3irHfrMxknRHUs22qIQowp4vy919k&callback=initMap"></script>
+	// Insert Google API Key
+	<script src=""></script>
             
             
             <div class="yellowButton" style="margin-top: 1.5%;">
